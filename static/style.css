@@ -1,0 +1,183 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#0f4c81,#1e90ff);
+    min-height:100vh;
+}
+
+.navbar{
+    background:#003366;
+    color:white;
+    padding:18px 40px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.navbar h2{
+    font-size:28px;
+}
+
+.navbar ul{
+    display:flex;
+    list-style:none;
+}
+
+.navbar ul li{
+    margin-left:25px;
+}
+
+.navbar ul li a{
+    color:white;
+    text-decoration:none;
+    font-weight:500;
+}
+
+.container{
+    width:90%;
+    max-width:1100px;
+    margin:50px auto;
+}
+
+.card{
+    background:white;
+    border-radius:18px;
+    padding:40px;
+    box-shadow:0 15px 35px rgba(0,0,0,.25);
+}
+
+.hero{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.hero-text{
+    width:55%;
+}
+
+.hero-text h1{
+    font-size:45px;
+    color:#003366;
+    margin-bottom:20px;
+}
+
+.hero-text p{
+    font-size:18px;
+    line-height:30px;
+    color:#555;
+}
+
+.hero img{
+    width:350px;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:25px;
+    background:#007bff;
+    color:white;
+    padding:14px 35px;
+    border-radius:8px;
+    text-decoration:none;
+    font-size:18px;
+    transition:.3s;
+}
+
+.btn:hover{
+    background:#0056b3;
+}
+
+.form-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:20px;
+}
+
+.form-group{
+    display:flex;
+    flex-direction:column;
+}
+
+.form-group label{
+    font-weight:600;
+    margin-bottom:8px;
+}
+
+.form-group input,
+.form-group select{
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:15px;
+}
+
+.submit-btn{
+    margin-top:30px;
+    width:100%;
+    background:#28a745;
+    color:white;
+    border:none;
+    padding:15px;
+    font-size:20px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.submit-btn:hover{
+    background:#218838;
+}
+
+.result-card{
+    text-align:center;
+    padding:60px;
+}
+
+.result-card h1{
+    font-size:40px;
+}
+
+.success{
+    color:green;
+}
+
+.fail{
+    color:red;
+}
+
+.footer{
+    text-align:center;
+    color:white;
+    margin-top:40px;
+    padding-bottom:20px;
+}
+
+@media(max-width:768px){
+
+.hero{
+flex-direction:column;
+}
+
+.hero-text{
+width:100%;
+text-align:center;
+}
+
+.hero img{
+width:250px;
+margin-top:30px;
+}
+
+.form-grid{
+grid-template-columns:1fr;
+}
+
+}
