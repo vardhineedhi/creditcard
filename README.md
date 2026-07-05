@@ -161,20 +161,19 @@ The model with the best performance was selected and saved as **model.pkl**.
 
 
 - Prediction Form
-- Result Page
+
+<img width="1599" height="755" alt="Screenshot 2026-07-05 090527" src="https://github.com/user-attachments/assets/385c847b-c461-4cbd-b73a-432f6dda4a2b" />
+
+
+- Result Pages
+  
+<img width="1592" height="697" alt="Screenshot 2026-07-05 090627" src="https://github.com/user-attachments/assets/04551bbc-c842-418d-a710-12e44b6618b5" />
+
+<img width="1599" height="700" alt="Screenshot 2026-07-05 090649" src="https://github.com/user-attachments/assets/b579c6f0-e322-41da-bf3c-9d5572892842" />
+
 
 ---
 
-# 📌 Future Improvements
-
-- Database Integration
-- User Login Authentication
-- Admin Dashboard
-- Cloud Deployment
-- Improved Model Accuracy
-- Better Business Rules
-
--------
 
 # ⭐ If you like this project
 
