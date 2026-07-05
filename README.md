@@ -156,6 +156,10 @@ The model with the best performance was selected and saved as **model.pkl**.
 # 📷 Application Screens
 
 - Home Page
+<img width="1599" height="684" alt="Screenshot 2026-07-05 090506" src="https://github.com/user-attachments/assets/3444b858-f3d5-447c-9af4-709496238f7e" />
+
+
+
 - Prediction Form
 - Result Page
 
