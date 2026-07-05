@@ -68,7 +68,7 @@ CreditCardApproval/
 ## 1️⃣ Clone the Repository
 
 ```bash
-
+https://github.com/vardhineedhi/creditcard.git
 ```
 
 ---
