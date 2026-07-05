@@ -1,6 +1,6 @@
 # 💳 Credit Card Approval Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Credit Card Approval Prediction System** is a Machine Learning web application developed using **Python, Flask, and XGBoost**. It predicts whether a customer is eligible for a credit card based on financial and demographic information entered through a web interface.
 
@@ -8,7 +8,7 @@ The application uses a trained machine learning model to analyze customer detail
 
 ---
 
-## 🚀 Features
+## Features
 
 - User-friendly web interface
 - Customer information form
@@ -20,7 +20,7 @@ The application uses a trained machine learning model to analyze customer detail
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Flask
@@ -170,17 +170,7 @@ The model with the best performance was selected and saved as **model.pkl**.
 - Improved Model Accuracy
 - Better Business Rules
 
----
-
-# 👨‍💻 Author
-
-**Vardhineedi Raja**
-
-B.Tech Information Technology
-
-Aditya College of Engineering and Technology
-
----
+-------
 
 # ⭐ If you like this project
 
