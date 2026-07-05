@@ -8,9 +8,9 @@ The application uses a trained machine learning model to analyze customer detail
 
 ---
 ## video link 
-```bash
+
 https://drive.google.com/file/d/1rkoIQdl9armYLtRRV_G1UKNIME-rYNAB/view?usp=drivesdk
-```
+
 ## 📂 Project Structure
 
 ```
