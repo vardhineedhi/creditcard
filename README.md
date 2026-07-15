@@ -1,3 +1,10 @@
+## LIVE PREVIEW
+----
+
+https://creditcard-1-cc5p.onrender.com
+
+-----
+
 # 💳 Credit Card Approval Prediction using Machine Learning
 
 ##  Project Overview
@@ -19,7 +26,7 @@ CreditCardApproval/
 ├── app.py
 ├── model.pkl
 ├── encoders.pkl
-├
+├---requiredment.txt
 │
 ├── static/
 │   └── style.css
